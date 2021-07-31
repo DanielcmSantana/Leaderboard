@@ -1,16 +1,16 @@
 var paulo = {
     nome: "Paulo",
-    vitorias: 2,
-    empates: 5,
-    derrotas: 3,
+    vitorias: 0,
+    empates: 0,
+    derrotas: 0,
     pontos: 0,
 }
 
 var rafa = {
     nome: "Rafa",
-    vitorias: 3,
-    empates: 5,
-    derrotas: 2,
+    vitorias: 0,
+    empates: 0,
+    derrotas: 0,
     pontos: 0,
 }
 
